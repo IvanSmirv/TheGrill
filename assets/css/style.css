@@ -660,10 +660,7 @@ fieldset[disabled] .btn-primary.active {
 /*  5 - HEADER
 /*-----------------------------------------------------------------------------------*/
 
-#headerwrap {
-    background-color: #f3f3f3;
-    overflow: hidden
-}
+#headerwrap {}
 
 #headerwrap input.col-md-4 {
     margin: 0 auto;
